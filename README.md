@@ -23,4 +23,4 @@ Proses MapReduce berlangsung dalam beberapa tahap:
 4. **Reduce**: Setiap tugas Reduce mengambil kunci dan daftar nilai yang terkait, menggabungkannya untuk membentuk sebuah nilai akumulatif yang menggambarkan seluruh dataset.
 5. **Output**: Hasil akhir disimpan kembali ke sistem penyimpanan, memberikan ringkasan yang diinginkan (misalnya, jumlah total kalimat dengan "me" dan variasinya).
 
-Berikut hasil Screenshot Output ![Output SS](images/OutputSS.png)
+Berikut hasil Screenshot Output ![Output SS](OutputSS.png)
